@@ -1,12 +1,19 @@
-Implemented New Features for Family Tree App.
+Added the follwing functionality to the App : -
 
--Added Custom Label 1 & Custom Label 2.
+1. Added "CONNECT WITH DRIVE" button. This button has following functionality - 
 
--Fixed Print PDF Function.
+	a. First it takes you to the authorization page where it will ask you to login with your google account.
 
--Added new feature Edit Family to the app.
+	b. After to login and provide necessary permissions (For more details please visit the assignment_images folder)
 
--Improved Search feature, Export and Import Json functionality.
+	c. Next it will redirect you to the home page.
 
--Improved UI, added dark mode.
+<From this we have established the connection with the drive> 
 
+Next Button is to verify the connection :-
+
+2. Added "OPEN DRIVE" button. This button has the following functionality - 
+
+	a. Upon clicking it will display all first 10 contents of your drive.
+    
+	b. All the files are mentioned with thier names and ids
